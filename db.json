@@ -4,9 +4,9 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "random": [
-    { "id": 1, "name": "Nacho", "gender": "M" },
-    { "id": 2, "name": "Ana", "gender": "F" }
+  "users": [
+    { "id": 1, "name": "Nacho", "email": "M" },
+    { "id": 2, "name": "Ana", "email": "F" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
